@@ -1,8 +1,8 @@
-@ST_10042 @teg
+@ST_10046 @teg
 Feature: Feature1
 desc
 
-@SC_41914
+@SC_41933
 Scenario Outline: asdasfgfds
 Given <123><235>
 And <asd1>
@@ -15,7 +15,7 @@ asd
 |1|1|1|2|3|
 
 
-@SC_41915
+@SC_41934
 Scenario: afsgds
 Given asf
 And afs
