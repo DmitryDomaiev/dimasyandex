@@ -3,7 +3,7 @@ Feature: Feature1
 desc
 
 @SC_41933
-Scenario Outline: asdasfgfds
+Scenario Outline: Scenario1
 Given <123><235>
 And <asd1>
 And <asd1>
@@ -14,9 +14,8 @@ asd
 |123|235|asd1|asfgg|r20935|
 |1|1|1|2|3|
 
-
 @SC_41934
-Scenario: afsgds
+Scenario: Scenario2
 Given asf
 And afs
 
