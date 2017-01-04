@@ -3,7 +3,7 @@ Feature: Feature1
 desc
 
 @SC_41933
-Scenario Outline: Scenario1
+Scenario Outline: Scenario 1
 Given <123><235>
 And <asd1>
 And <asd1>
@@ -15,12 +15,12 @@ asd
 |1|1|1|2|3|
 
 @SC_41934
-Scenario: Scenario2
+Scenario: Scenario 2
 Given asf
 And afs
 
 @SC_55563
-Scenario: Scenario3
+Scenario: Scenario 3
 Given some given
 When do something
 Then I do...
